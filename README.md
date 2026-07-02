@@ -1,4 +1,4 @@
-# List of Free Learning Resources In Many Languages
+# Free Programming Resources
 
 <div align="center" markdown="1">
 
